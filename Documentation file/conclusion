@@ -1,0 +1,10 @@
+The Intelligent Traffic Control System using queues provides an efficient and practical solution for managing traffic.
+
+Key advantages:
+
+Uses simple data structures (queue)
+Ensures fairness using FIFO
+Handles emergency vehicles effectively
+Reduces congestion by selecting busiest lane
+
+This project demonstrates how theoretical concepts like data structures can be applied to real-world problems like traffic management.
