@@ -1,0 +1,15 @@
+Traffic management is an important aspect of smart cities. Traditional traffic systems use fixed timers, which are not efficient during varying traffic conditions.
+
+This project introduces a smarter approach using queues:
+
+Each lane is treated as a queue.
+Vehicles enter at the rear and exit from the front.
+The system dynamically decides which lane gets the green signal.
+
+Key features:
+
+Fair vehicle movement using FIFO principle
+Priority handling for ambulances
+Dynamic lane selection based on traffic density
+
+This approach reduces waiting time and improves emergency response.
