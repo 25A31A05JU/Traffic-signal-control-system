@@ -1,0 +1,5 @@
+Traffic congestion is a common problem in urban areas. Efficient traffic management is necessary to reduce waiting time and ensure smooth vehicle flow. This project presents an Intelligent Traffic Control System using the Queue Data Structure (FIFO – First In First Out).
+
+The system simulates three traffic lanes where vehicles are managed dynamically. Special priority is given to emergency vehicles like ambulances. If an ambulance is present, it is immediately allowed to pass by giving a green signal to that lane. Otherwise, the system selects the lane with the highest number of vehicles.
+
+The system runs in cycles, allowing one vehicle to pass per cycle. This improves fairness and efficiency. The project demonstrates how data structures like queues can be applied to solve real-world problems.
